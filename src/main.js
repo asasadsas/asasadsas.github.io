@@ -1,4 +1,4 @@
-
+console.log('OOF');
 
 import { createApp } from 'vue'
 import App from './App.vue'
